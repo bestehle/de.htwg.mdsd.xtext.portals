@@ -6,6 +6,7 @@ bin
 *.plugin.xml_gen
 *.versionsBackup
 *.bak
+.classpath
 
 plugin.xml_gen
 src-gen
